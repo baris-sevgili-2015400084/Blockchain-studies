@@ -1,4 +1,4 @@
-//the extension of the file is expected to be cto that is a special extension for Hyperledger Composer for Modl files
+//the extension of the file is expected to be cto that is a special extension for Hyperledger Composer for Model files
 
 namespace org.acme.vehicle.auction
 
