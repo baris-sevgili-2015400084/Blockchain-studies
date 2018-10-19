@@ -1,3 +1,4 @@
+//the extension of the file is expected to be acl that is a special extension for Hyperledger Composer for Access Control List
 
 /**
  * Access Control List for the auction network.
